@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor-Ercilio
-- 👀 I’m interested in Python, C, and C++.
-- 🌱 I’m currently learning C Language through CS50
-- 💞️ I’m looking to collaborate on ... I don't no.
+- 👀 I’m interested in Python and C.
+- 🌱 I’m currently learning C Language at College
+- 💞️ I’m a student at Faculdade de Tecnologia de São Paulo.
 - 📫 How to reach me ... 
 
 <!---
