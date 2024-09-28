@@ -1,6 +1,4 @@
 - Hi, I’m @Victor-Ercilio
-- I’m interested in Python, C, Linux.
-- I’m currently learning C# and Java at College
 - I’m a student at Faculdade de Tecnologia de São Paulo.
 
 
